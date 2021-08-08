@@ -130,7 +130,7 @@ def msg_image_select(m):
         bot.send_message(cid, "Este es un pequeño video sobre Belice"),
         bot.send_chat_action(cid, 'upload_video')
         time.sleep(3)
-        bot.send_video(cid, "BAACAgEAAxkBAAIErWD2a6rvuFAr74s7QBUZ1-uNR6CIAAJyAQACqgK5R_BKBo1LvWiWIAQ" , 'rb')
+        bot.send_video(cid, "BAACAgEAAxkBAAMxYRAz_PQaGfC_xDnDsi44XmNG7s8AAnIBAAKqArlH0dxnd_j9f0QgBA" , 'rb')
 
         bot.send_chat_action(cid, 'typing')
         time.sleep(3)
@@ -180,7 +180,7 @@ def msg_image_select(m):
         bot.send_message(cid, "Este es un pequeño video sobre Guatemala"),
         bot.send_chat_action(cid, 'upload_video')
         time.sleep(3)
-        bot.send_video(cid, "BAACAgEAAxkBAAIFkGD2gpt-Az2mrg-hMKH0cAn5DMGsAAKLAQACqgK5RyF6DOg4OasCIAQ" , 'rb')
+        bot.send_video(cid, "BAACAgEAAxkBAAMzYRAz_C0AAcNxesWpyBcPiu0g9dd4AAKLAQACqgK5R9m0vQAB-ly28iAE" , 'rb')
 
         bot.send_chat_action(cid, 'typing')
         time.sleep(3)
@@ -230,7 +230,7 @@ def msg_image_select(m):
         bot.send_message(cid, "Este es un pequeño video sobre El Salvador"),
         bot.send_chat_action(cid, 'upload_video')
         time.sleep(3)
-        bot.send_video(cid, "BAACAgEAAxkBAAIEr2D2cdvKfTAZkAvDzXUzEBPOCoHAAAJ0AQACqgK5R4W-2LLDusyPIAQ" , 'rb')
+        bot.send_video(cid, "BAACAgEAAxkBAAMwYRAz_Ga9NZcxk-Ne6CAUW_NN6UEAAnQBAAKqArlHEJEZ0Cp9Qj0gBA" , 'rb')
 
         bot.send_chat_action(cid, 'typing')
         time.sleep(3)
@@ -280,7 +280,7 @@ def msg_image_select(m):
         bot.send_message(cid, "Este es un pequeño video sobre Honduras"),
         bot.send_chat_action(cid, 'upload_video')
         time.sleep(3)
-        bot.send_video(cid, "BAACAgEAAxkBAAIEqmD2Y5Eao34UetwhpDFTx92-4AnMAAJuAQACqgK5RyfhAAHMTJw68iAE" , 'rb')
+        bot.send_video(cid, "BAACAgEAAxkBAAMvYRAz_CrGJGbbvGcfyQhZ8uUWC6YAAm4BAAKqArlHvYZBhWsKpj8gBA" , 'rb')
 
         bot.send_chat_action(cid, 'typing')
         time.sleep(3)
@@ -330,7 +330,7 @@ def msg_image_select(m):
         bot.send_message(cid, "Este es un pequeño video sobre Nicaragua"),
         bot.send_chat_action(cid, 'upload_video')
         time.sleep(3)
-        bot.send_video(cid, "BAACAgEAAxkBAAIEq2D2Zw4UP5zMPgU3I8b6YO_GUKCfAAJwAQACqgK5R2SwPLUGymgdIAQ" , 'rb')
+        bot.send_video(cid, "BAACAgEAAxkBAAMtYRAz_Ba-xxb8F_Yo0YUhF_M2jI0AAnABAAKqArlH_yXjgP0DHLsgBA" , 'rb')
 
         bot.send_chat_action(cid, 'typing')
         time.sleep(3)
@@ -380,7 +380,7 @@ def msg_image_select(m):
         bot.send_message(cid, "Este es un pequeño video sobre Costa Rica"),
         bot.send_chat_action(cid, 'upload_video')
         time.sleep(3)
-        bot.send_video(cid, "BAACAgEAAxkBAAIErmD2b7RlhsvPNazZDtDoTwi5nHvHAAJzAQACqgK5Rws_Kol8v88vIAQ" , 'rb')
+        bot.send_video(cid, "BAACAgEAAxkBAAMuYRAz_JObDaJyvpHg17sqaw_SbsUAAnMBAAKqArlHyy-F2IzHIdwgBA" , 'rb')
 
         bot.send_chat_action(cid, 'typing')
         time.sleep(3)
@@ -430,7 +430,7 @@ def msg_image_select(m):
         bot.send_message(cid, "Este es un pequeño video sobre Panamá"),
         bot.send_chat_action(cid, 'upload_video')
         time.sleep(3)
-        bot.send_video(cid, "BAACAgEAAxkBAAIErGD2adKkc4cAAUwNboYHP1qDxlnIUAACcQEAAqoCuUeZxceHDroJ0SAE" , 'rb')
+        bot.send_video(cid, "BAACAgEAAxkBAAMyYRAz_Ga0_nMxEXTm-x0-N3CQN4YAAnEBAAKqArlHhYNYC-Ycx5MgBA" , 'rb')
 
         bot.send_chat_action(cid, 'typing')
         time.sleep(3)
